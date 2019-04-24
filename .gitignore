@@ -1,0 +1,14 @@
+#windows:
+Thumbs.db
+ethumbs.db
+Desktop.ini
+
+
+#Python:
+*.py[cod]
+*.so
+*.egg
+
+#My configuration:
+db.ini
+deploy_key_rsa
